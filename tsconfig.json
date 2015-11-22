@@ -14,11 +14,6 @@
         "preserveConstEnums": true,
         "suppressImplicitAnyIndexErrors": true
     },
-    "files": [
-        "app.ts",
-        "typings/jquery/jquery.d.ts",
-        "typings/tsd.d.ts"
-    ],
     "atom": {
         "rewriteTsconfig": true
     }
